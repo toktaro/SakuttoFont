@@ -6,6 +6,9 @@ It runs entirely in your web browser without needing any software installation. 
 
 ![SakuttoFont Screenshot](screenshots/top.png)
 
+## Live Demo
+[https://toktaro.github.io/SakuttoFont/](https://toktaro.github.io/SakuttoFont/)
+
 ## Features
 
 *   **Image to Font Generation (OTF):**
