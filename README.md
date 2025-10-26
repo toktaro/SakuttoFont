@@ -56,3 +56,7 @@ You can find the full text of the license in the [LICENSE](./LICENSE) file or at
 *   [https://github.com/kilobtye/potrace/blob/master/COPYING](https://github.com/kilobtye/potrace/blob/master/COPYING)
 
 This means that if you create and distribute a derivative work of this software, you must also make the source code available under the same GPL-2.0 license.
+
+---
+
+If you find this tool useful and want to show your support, consider purchasing [this article](https://note.com/toktaro/n/n220e71246bd7).
