@@ -2,12 +2,15 @@
 
 **SakuttoFont** is a simple, in-browser tool that allows you to easily create custom SVG vector graphics and OTF font files from your images, such as hand-drawn letters or icons.
 
+![convert png files to otf](screenshots/png_to_otf.png)
+
 It runs entirely in your web browser without needing any software installation. All processing is done locally on your machine, meaning your images are never uploaded to a server.
 
-![SakuttoFont Screenshot](screenshots/top.png)
 
 ## Live Demo
 [https://toktaro.github.io/SakuttoFont/](https://toktaro.github.io/SakuttoFont/)
+
+![SakuttoFont Screenshot](screenshots/top.png)
 
 ## Features
 
@@ -29,7 +32,7 @@ It runs entirely in your web browser without needing any software installation. 
 
 1.  **Select Image Files:**
     *   Click the "Choose Files" button and select one or more image files you want to convert.
-    *   **(Important)** The filename should be the character you want to assign (e.g., `A.png`, `dog.png`, `!.png`).
+    *   **(Important)** The filename should be the character you want to assign (e.g., `A.png`, `犬.png`, `!.png`).
 2.  **Adjust the Threshold:**
     *   Use the "Threshold" slider while looking at the preview canvas to get a clean black-and-white representation of your image.
 3.  **Choose SVG Size:**
@@ -60,6 +63,10 @@ You can find the full text of the license in the [LICENSE](./LICENSE) file or at
 
 This means that if you create and distribute a derivative work of this software, you must also make the source code available under the same GPL-2.0 license.
 
+
+
 ---
 
-If you find this tool useful and want to show your support, consider purchasing [this article](https://note.com/toktaro/n/n220e71246bd7).
+
+
+If you find this tool useful and want to show your support, consider purchasing  [this article](https://note.com/toktaro/n/n220e71246bd7)!
